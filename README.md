@@ -1,5 +1,5 @@
 # ABOUT ME
-Hi, I'm Diem Quynh. I'm a Data Science student interested in Data Analytics and Data Engineering.
+Hi, I'm Diem Quynh. I'm a Data Science undergratuate interested in Data Analytics and Data Engineering.
 
 This GitHub is where I:
 - Practice programming and problem solving
